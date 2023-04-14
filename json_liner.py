@@ -21,6 +21,6 @@ def dataframe_row_to_jsonl(dataframe, savefile = True):
             
 #### Our sentences were stored in the first row of an excel file
 if __name__ == "__main__":
-    df = pd.read_excel('data/rondine.xlsx', usecols = [0])
+    df = pd.read_excel('data/custom_ner_sentences_data_set.xlsx', usecols = [0])
     dataframe_row_to_jsonl(df)
     print('Excel data successfully converted to a JSON Liner format')

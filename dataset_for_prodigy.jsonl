@@ -1,0 +1,500 @@
+{"text": "Traditional clinical decision support tools, such as the National Surgical Quality Improvement Program (NSQIP) Surgical Risk Calculator, can reduce variability and mitigate risks."}
+{"text": "A machine learning ensemble accurately predicted mortality among trauma patients in the United States, South Africa, and Cameroon with AUC \u22650.90 in all settings."}
+{"text": "A deep model using SOFA variables predicted in-hospital mortality with greater accuracy than the traditional SOFA score, funded by the University of Florida and Nvidia."}
+{"text": "The Health Information Technology for Economic and Clinical Health Act of 2009 incentivized adoption of EHR systems."}
+{"text": "In cooperation with the International Medical Device Regulators Forum, the US Food and Drug Administration created the Software as Medical Device category and developed a voluntary Software Precertification Program to aid health care software developers in creating, testing, and implementing Software as Medical Device."}
+{"text": "Shrivastava et al. have proposed an AI program to assist in the assessment of psoriasis severity and have reported several attempts to develop this program."}
+{"text": "Examples are the International Skin Imaging Collaboration and PH2 dermoscopic archives"}
+{"text": "A platform that highlights intracranial bleeding for radiologists is already CE approved and was developed by MaxQ-AI Ltd. (Tel Aviv, Israel)."}
+{"text": "Taking this concept one step further, Viz.ai Inc, a spinoff company from Stanford University, San Francisco, is aiming to decrease the time to treatment once a CT scan was performed and the FDA approved platform."}
+{"text": "Despite showing great promise in the field of AI in medicine, IBMs Watson decision support system was recently called into question."}
+{"text": "Clinical decision making support systems like Watson are still in a relatively early stage of clinical trials and with experience, alterations will need to be made."}
+{"text": "The American Academy of Ophthalmology recommends screening of this huge patient population to diagnose DR in its early stage."}
+{"text": "Consensus documents from the Society of American Gastrointestinal and Endoscopic Surgeons (SAGES) and the European Association for Endoscopic Surgery (EAES) regarding robotic assisted surgery show no improvement in patient outcome when comparing standard laparoscopic surgery to robotic assisted surgery."}
+{"text": "NLP analysis involved the use of the Python nltk , gensim, and pyLDAvis packages."}
+{"text": "In the US, they may require FDA approval prior to full implementation. Predictive models should be validated on an unseen holdout dataset after they have been trained."}
+{"text": "ML models should be developed following a robust process. They should be trained on high-quality datasets, be well validated, and be subjected to peer review."}
+{"text": "A diagram indicating a viable workflow process integration point for ML decision support tools, within the context of a comprehensive patient review protocol designed for complex spine surgery, has been published by the Seattle Spine Team."}
+{"text": "Previously thought to be science fiction, AI has increasingly become the topic of both popular and academic literature as years of research have finally built to thresholds of knowledge that have rapidly generated practical applications, such as International Business Machine\u2019s (Armonk, NY) andWatson and Tesla\u2019s (Palo Alto, CA) autopilot."}
+{"text": "Stories of man-versus-machine, such as that of John Henry working to death to outperform the steam-powered hammer demonstrate how machines have long been feared yet ultimately both accepted and eagerly anticipated."}
+{"text": "In surgical patients, NLP has been used to automatically comb through EMRs to identify words and phrases in operative reports and progress notes that predicted anastomotic leak after colorectal resections."}
+{"text": "Synergy between fields is also important in expanding the applications of AI. Combining NLP and computer vision, Google (Mountain View, CA) Image Search is able to display relevant pictures in response to a textual query such as a word or phrase."}
+{"text": "For example, the Smart Tissue Autonomous Robot (STAR) developed by Johns Hopkins University was equipped with algorithms that allowed it to match or outperform human surgeons in autonomous ex vivo and in vivo bowel anastomosis in animal models."}
+{"text": "Such concerns have hindered the use of AI algorithms in many applicative fields from medicine to autonomous driving and have pushed data scientists to improve the interpretability of AI analyses."}
+{"text": "With big data analytics predicted to yield annual healthcare savings between $300 and $450 billion annually in the United States alone,65 there is great economic incentive to incorporate AI and big data into multiple elements of our healthcare system."}
+{"text": "We find that the fertility effect is driven by mothers with citizenship from low\u2010 and middle\u2010income countries (LMICs). Birth weight, however, significantly increases for mothers from a high\u2010income country."}
+{"text": "Switzerland provides an optimal quasi\u2010experiment: 11 out of 26 cantons introduced a baby bonus during the last 50 years at different points in time."}
+{"text": "Most closely related to our study is Milligan's (2005) analysis of a policy reform in birth allowances in Quebec."}
+{"text": "Switzerland has a decentralized federal political system with three interdependent governmental levels (federal, cantonal, and municipal)."}
+{"text": "Mothers can schedule a birth early via a Cesarean section or induce labor medically."}
+{"text": "The data on all outcome measures such as newborn health, birth\u2010scheduling, and fertility is coming from the Swiss Vital Statistics and Annual Population Statistics provided by the Federal Statistical Office"}
+{"text": "Information on the amount and the date of implementation of all birth allowances per canton is recorded by the Federal Social Insurance Office"}
+{"text": "Two cantons (Solothurn and Schaffhausen) abolish the baby bonus after some years again."}
+{"text": "To do so, we use the World Bank database which categorizes countries into four income levels: High\u2010income, upper middle\u2010income, lower middle\u2010income, and low\u2010income."}
+{"text": "There is one exception. In 2012, the canton of Geneva doubled the amount from CHF 1000 to CHF 2000."}
+{"text": "This is likely the result of low daily birth counts and small changes in the payment structure. In the specific case of Geneva in 2012, where the baby bonus was doubled to CHF 2000, graphical analysis suggests a postponement of births."}
+{"text": "The objective of this article is to review the interaction of data protection law and biomedical research with a predominant focus on the Swiss context."}
+{"text": "In the recent General Data Protection Regulation (GDPR) by the European Union, for example, it is reasserted that research undoubtedly falls under the scope of data protection law."}
+{"text": "The increasing importance of considering data protection aspects in biomedical research also holds true for Switzerland, where several projects have been put in place to facilitate the legal and ethical use of data for research."}
+{"text": "All these initiatives are designed with particular attention paid to the legal ramifications of data protection, especially in reference to Switzerland\u2019s specific legislation for processing personal data in the research sector (the Human Research Act - HRA."}
+{"text": "In the same spirit, the Swiss Personalised Health Network (SPHN) was recently started as a nationwide initiative with the specific mandate to leverage the potential of health-related data"}
+{"text": "In Switzerland alone there are 26 different data protection regulations (the FADP and 25 cantonal data protection laws \u2013 the cantons of Jura and Neuchatel have a common data protection bill), a law on biomedical research."}
+{"text": "It provides a critical review, according to the classification by Grant and Booth , since it aims to go beyond mere description of the reviewed literature and case law and includes a certain degree of conceptual innovation."}
+{"text": "This is a common trait of virtually every piece of legislation on data protection. In Switzerland, for example, this is clearly established by the FADP"}
+{"text": "Biomedical research with non-personal (or anonymised, see below) data falls outside the scope of data protection rules and thus does not require, amongst other things, approval from ethics committees."}
+{"text": "Virtually every other cantonal data protection law contains a similar definition and even for the EU level, the GDPR"}
+{"text": "In a recent decision of the Swiss Federal Supreme Court, for example, the judges ruled that images of people on Google Street View are identifiable (and thus personal data)."}
+{"text": "Traditionally in Europe, data protection rules are contained in legislative acts that regulate the processing of personal data across sectors."}
+{"text": "The FSA delineates some data protection rules for the processing of data by the Federal Office of Statistics."}
+{"text": "Lastly, the processing of data by healthcare professionals and researchers is also covered by the rules on confidentiality in the Criminal Code."}
+{"text": "No relevant rulings by Swiss Federal courts are present to help guide practice. Legal doctrine in Switzerland traditionally interprets the concept of health data very broadly."}
+{"text": "Where the law, such as the GDPR at the EU-level, requires a lawful basis for any data processing."}
+{"text": "The age-standardized incidence of invasive cervical cancer in African LMICs is more than three times that of the United States or Europe14 and, on the basis of current available data, only 19 out of 52 African nations offer brachytherapy."}
+{"text": "Similar struggles are taking place in LMICs in the Middle East and in some Asian countries"}
+{"text": "Furthermore, national data suggest that Black, Pakistani, and Bangladeshi individuals are at increased risk of mortality from COVID-19."}
+{"text": "Rayos Contra Cancer (RCC) is a nonprofit organization that seeks to provide needed education and training to radiation oncology clinicians in LMICs using the Project ECHO"}
+{"text": "Radiation oncology departments from 10 cancer centers in Egypt, Ghana, Iraq, Jordan, Nepal, Nigeria, Mozambique, Qatar, and Zambia were selected for training."}
+{"text": "All 10 centers had recently acquired an HDR afterloader or were in the planning phases of receiving one within the next year."}
+{"text": "The faculty included five radiation oncologists and 12 medical physicists from the United States and Australia with past experience in global health."}
+{"text": "Relying on Kern\u2019s model for curriculum development and a needs assessment conducted through informal interviews and electronic REDCap surveys of liaisons from each partner center, the academic faculty created a curriculum tailored primarily to medical physicists."}
+{"text": "The total number of participant-hours was calculated, and participant and center-specific attendance rates were plotted in Microsoft Excel."}
+{"text": "All surveys were pretested and discussed for relevance with one to two center liaisons before being distributed in an anonymous electronic format using the Research Electronic Data Capture (REDCap) database."}
+{"text": "Qualitative feedback was solicited from participants and site liaisons via e-mail, WhatsApp (Facebook; Menlo Park, CA), and text throughout the duration of the program."}
+{"text": "LMICs in Africa, the Middle East, and East Asia selected because of the regional burden of advanced cervical cancer and limited brachytherapy availability."}
+{"text": "Because of COVID-19\u2013related travel restrictions, visits are pending to partner centers in Nigeria, Jordan, Iraq, and Egypt."}
+{"text": "The study was offered only in English, without available translators to enhance learning in non-English languages"}
+{"text": "Many of the expert educators were from the United States or Australia, and it may have been beneficial to have a more diverse representation in the educators, particularly content experts from the Middle East and Africa who are more likely aware of region-specific challenges and nuances in HDR brachytherapy service needs and infrastructure."}
+{"text": "Despite these limitations, this pilot study has highlighted the potential value of videoconferencing telehealth education as a modality to bring needed radiotherapy training to emerging cancer centers in LMICs in Africa, the Middle East, and East Asia."}
+{"text": "This intervention applied the ECHO model of international education partnership to deliver a 16-session HDR brachytherapy curriculum to 46 clinicians representing 10 cancer centers in LMICs throughout North Africa, the Middle East, and East Asia."}
+{"text": "Many manufacturing companies, such as Toyota, General Electric, and Motorola, use Six Sigma and Lean Six Sigma process improvement practices and techniques to help measure and improve quality in the products they manufacture and the services they provide."}
+{"text": "As reported by Covington et al. (8), \u2018\u2018Even small deflections of the canthomeatal line from the vertical position may signify abnormal head tilt.\u2019\u2019"}
+{"text": "Another patient positioning challenge pertains to DaTscan imaging."}
+{"text": "Sagittal tilt (forward or backward head tilt) has little effect on image quality in a DaTscan"}
+{"text": "For amyloid imaging, these reporting components can be found in a document from the Society of Nuclear Medicine and Molecular Imaging (SNMMI) and the European Association of Nuclear Medicine"}
+{"text": "The grand challenges are in sense-making, in context understanding, and in decision making under uncertainty (Holzinger, 2017)."}
+{"text": "A best practice example is a recent work of the Thrun group, where they achieved with a DL approach performance on par with medical doctors, demonstrating that such approaches are able to classify skin cancer with a level of competence comparable to human dermatologists."}
+{"text": "A typical example is MYCIN (Shortliffe & Buchanan, 1975), which was an expert system developed in Lisp to identify bacteria causing severe infections and to recommend antibiotics."}
+{"text": "One example is the generative adversarial network (GAN) introduced by Goodfellow et al. (2014)."}
+{"text": "Kupffer cells slightly diffusely increased, isolated Kupffer cell nodules detectable."}
+{"text": "The data comprised of two image datasets; Dataset A consisted of 2019 consecutive chest radiographs from a single ceiling X-ray system (Samsung Electronics Co., Ltd., Suwon, South Korea)."}
+{"text": "The study received research permit from HUS Medical Imaging Center of Helsinki University Hospital"}
+{"text": "We used the European Commission\u2019s guidelines on quality criteria for diagnostic radiographic images as our baseline for the annotation and created a graphical user-interface with MATLAB"}
+{"text": "We trained a variety of ResNet50 and DenseNet121 networks without the pre-trained weights using Python version 3.7, Keras version 2.2.4 and TensorFlow version 1.14"}
+{"text": "Novel height, weight and body mass index (BMI) references for children in Switzerland reveal an increase in BMI compared to former percentile curves"}
+{"text": "This trend may be the result of children with parents originating from Southern European countries having a higher risk of being overweight compared to their peers with parents of Swiss origin."}
+{"text": "Results for children of Swiss origin were compared with historical BMI data from Zurich."}
+{"text": "In Europe, the prevalence of obesity in children and adolescents has been rising since the 1980s"}
+{"text": "The immigrant population profile in Switzerland has diversified from mainly unqualified Spanish and Italian workers in the 1960s and immigrants from Portugal and the former Yugoslavia in the 1990s towards a large proportion of tertiary educated European Union citizens"}
+{"text": "Prevalence of overweight including obesity and of obesity alone, were calculated using the International Obesity Task Force (IOTF) cut-offs."}
+{"text": "Children of parents from Northern/Central Europe or Switzerland have lower rates of overweight and obesity than children whose parents originate from Southern Europe"}
+{"text": "The probability of being overweight is about 2.5 times higher for children whose parents both come from Southern Europe than for children with both parents coming from Switzerland"}
+{"text": "One could therefore assume that our BMI study is not representative of Switzerland as a whole."}
+{"text": "In the official Swiss statistics on population, 13% of children and adolescents aged 0 to 19 years come from Southern Europe"}
+{"text": "The development of this domain ontology was based on the model proposed by Uschold et al. for ontology development"}
+{"text": "Twinanda et al\u2019s landmark work in 2016 created EndoNet, a CNN capable of highly accurate phase recognition in laparoscopic cholecystectomy, along with the first publicly available reference dataset Cholec80."}
+{"text": "In December, 2019 while COVID-19 was unfolding in China, surgeons in the United Kingdom were enjoying some of their last few months of normality"}
+{"text": "By April, 2020 all National Health Service (NHS) trusts in the United Kingdom had halted their nonurgent elective operating"}
+{"text": "By March 11, 2020, the World Health Organization (WHO) had declared a global pandemic."}
+{"text": "To mitigate these risks, surgical services (across all surgical specialties) have made pandemic-response changes to their practice as guided by their specialist organizations, the Department of Health, Public Health England, and input from the Royal Surgical Colleges."}
+{"text": "As part of the immediate NHS response to the pandemic, surgical services were restructured to enable redistribution of resources."}
+{"text": "The Royal Surgical Colleges stipulated that maintaining emergency surgical capacity, including major trauma provision, was the primary aim during the COVID-19 pandemic."}
+{"text": "In the advent of COVID-19, the UK government\u2019s pandemic strategy differed from the strict measures of testing, tracing, and isolation recommended by the WHO"}
+{"text": "Compared to many countries, the United Kingdom\u2019s facility for COVID-19 RT-PCR testing has been very limited."}
+{"text": "The British Society for Thoracic Imaging released guidance supporting the use of computerized tomography (CT) and chest radiographs to identify features of COVID-19 infection."}
+{"text": "The unique risks of upper airway viral titers, in relation to anesthesia and AGP, require careful consideration of all surgical cases."}
+{"text": "Developments in RT-PCR for SARS-CoV-2 testing within the NHS include decentralization of processing (enabling quicker turnover locally) and use of quicker detection systems."}
+{"text": "Some of the 10,0 0 0 NHS returners who responded to the national \u201cBring Staff Back\u201d initiative will have returned to the surgical workforce."}
+{"text": "The impact of PPE on surgical efficiency is dramatic."}
+{"text": "Since the implementation of the European Working Time Directive (EWTD) 1 , operative exposure has become more precious."}
+{"text": "As is standard in surgical practice, meetings are held at the beginning of operative lists to disseminate case based information, using the WHO checklist as a guide."}
+{"text": "All dentist were members of the Swiss Dental Association SSO from all over Switzerland\u2014including all Swiss cantons and Liechtenstein"}
+{"text": "The increase was so rapid that, on 28 February, the Swiss Federal Council assessed the situation as a \u201cspecial situation\u201d under the Epidemics Act"}
+{"text": "The Swiss Dental Association SSO developed a protection concept for dental practices during the period of validity of the emergency legislation passed by the Federal Council on 16 March"}
+{"text": "The authors searched PubMed and its specific hub, Embase and Scopus servers up to 18 May 2020, for epidemiological studies using the terms \u201cDentists\u201d or \u201cDental personnel\u201d and \u201cSARS-CoV-2\u201d without date or language restrictions."}
+{"text": "The University of Bern designed and carried out a global survey to evaluate the impact of the COVID-19 outbreak among dentists working in different countries"}
+{"text": "On 2 July, all dentists n = 4328 who were in the database of the Swiss Dental Association SSO in Switzerland and Liechtenstein"}
+{"text": "according to data from the Swiss Federal Office of Public Health (FOPH) and the Office for Statistics of the Principality of Liechtenstein"}
+{"text": "All SARS-CoV-2-positive outpatients on maintenance dialysis were transferred from their usual dialysis facility to the Geneva University Hospitals dialysis unit"}
+{"text": "Since the diagnosis of four cases of pneumonia in Wuhan, China in late December 2019, SARS-CoV-2 infection has spread with an unparalleled transmission rate,"}
+{"text": "Since the beginning of the COVID-19 outbreak in Switzerland, the Geneva region has had the highest burden of infections in the country and during the second wave our region suffered from the highest infection incidence rate in Europe"}
+{"text": "All SARS-CoV-2-positive outpatients on maintenance dialysis from affiliated units were transferred to the Geneva University Hospitals dialysis unit in order to avoid creation of new clusters of transmission"}
+{"text": "The study was approved by the research ethics committee of the canton of Geneva"}
+{"text": "Groups were compared with the unpaired t-test, the chi-square or the Mann-Whitney test, as appropriate"}
+{"text": "Two of them provided in-centre dialysis for outpatients, whereas those at University of Geneva Hospitals and at Hospital de la Tour provided incentre dialysis for both outpatients and inpatients."}
+{"text": "Physicians and nurses from the University Hospital haemodialysis unit were also recruited to the wards or the ICU"}
+{"text": "The reviewers conducted three separate searches through the CINAHL and PubMed"}
+{"text": "The Patient Protection and Affordable Care Act (ACA) and the Health Information Technology for Economic and Clinical Health Act (HITECH) are shifting the landscape of healthcare technology"}
+{"text": "An example of a recent threat \u2013 ransomware \u2013 crippled a California hospital "}
+{"text": "Dr. Joseph Popp created ransomware in 1989. Popp used code to prey on organizations that held interest in introductory research on Acquired Immunodeficiency Syndrome (AIDS)."}
+{"text": "Hollywood PresbyterianMedical Center in Los Angeles, California had no choice but to pay a $17,000 payment to obtain a decryption key to regain access to their files, after it was held for ransom"}
+{"text": "We selected English-only restriction and a date range limited to year 2006 to current, but the results were already limited in PubMed and CINAHL to the point that additional filters did not change the results."}
+{"text": "Many IT experts are concerned that recent trends will convince cybercriminals to target medical devices such as pacemakers or Intensive Care Unit (ICU) respirators"}
+{"text": "Introduces the high profile cyber attack on Hollywood Presbyterian Medical Center as well as the true costs ransomware imposes on providers."}
+{"text": "Discusses a taskforce of healthcare professionals assembled by Health and Human Services (HHS) to identify best practices in cybersecurity"}
+{"text": "Covers an attack on a hospital in Indiana that infected an entire hospitals\u2019 network and how many medical devices are at-risk of being compromised as well."}
+{"text": "Second, the United States (U.S.) government has shifted its policy in promoting the increased use of technology in healthcare institutions"}
+{"text": "The first major case took place at Hollywood Presbyterian Medical Center in Los Angeles, California"}
+{"text": "The U.S. government has recognized the growing problem of cyber attacks in new security requirements to HIPAA and the HITECH act"}
+{"text": "The Cancer Registry Zurich and Zug in Switzerland was established in 1980 and covers roughly 20% of the Swiss population"}
+{"text": "Cancer registries are encouraged to assess the quality of their data"}
+{"text": "Similarly, the North American Association of Central Cancer Registries defines this time span to be 23 months"}
+{"text": "Smartphone applications such VisualDx, MyDermPath, YouDermascopy serve as diagnostic aid tools and can also help increase the user's knowledge of dermatology."}
+{"text": "This study surveyed trainees involved in the TD program at The denver Department of Veterans Affairs Medical Center."}
+{"text": "One study of 80 students at Northeast Ohio Medical University evaluated the effects of once-weekly online quizzes on second year medical student motivation."}
+{"text": "Surveys were distributed through the American Society for Dermatologic Surgery and Association of Professors of Dermatology."}
+{"text": "Self-diagnostic applications on smartphones, although not approved by the Food and Drug Administration (FDA), are emerging as a means whereby patients assess the likelihood of a malignant lesion."}
+{"text": "The  Health Insurance Portability and Accountability Act (HIPPA) protects the privacy of patients."}
+{"text": "The American Telemedicine Association (ATA) issued guidelines for the most appropriate use of TD."}
+{"text": "Patient themselves are satisfied with TD as they are able to experience shorter wait times and decreased costs."}
+{"text": "In North Africa, the ratio of dermatologists ranges from 3 per million population to 49 per million population."}
+{"text": "A literature review of English language epidemiology publications from 1970 to 2005 by the World Health Organization reported that the prevalence of skin disease and their associated morbidity in African countries (6 studies) ranges from 26.9% (Tanzania, 2 rural villages) to 80.4% (Ethiopia, 1 rural village)"}
+{"text": "Academics at institutions in most countries across Africa were approached as well as the Association of African Universities."}
+{"text": "The national curriculum and examinations for specialist training are provided by the College of Dermatologists of the Colleges of Medicine of South Africa (CMSA)."}
+{"text": "Additional training is available in dermatologic surgery and Mohs surgery, through the South African Society of Dermatological Surgery and a Mohs fellowship that is accredited by the American Academy of Dermatology"}
+{"text": "There is a Ministry of Health Egyptian Fellowship, which is a national program of 5 years, and each university has its own master\u2019s (MSc) 3-year program and examination,"}
+{"text": "The master\u2019s degree (MSc) in dermatology and venereology is a university degree awarded by the Faculty of Medicine, Benghazi University."}
+{"text": "The countries of West Africa are Benin, Burkina Faso, Cabo Verde, Cote d\u2019Ivoire, The Gambia, Ghana, Guinea-Conakry, Guinea-Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, and Togo."}
+{"text": "There are 2 national colleges for residency training, the National Postgraduate Medical College of Nigeria and the West African College of Physicians."}
+{"text": "The countries of East Africa are Comoros, Djibouti, Eritrea, Ethiopia, Kenya, Madagascar, Mauritius, Rwanda, Seychelles, Somalia, South Sudan, Sudan, Tanzania, and Uganda."}
+{"text": "Practical assessments use validated instruments, such as the Mini\u2013Clinical Evaluation Exercise."}
+{"text": "Kenyan doctors are trained for a year in the United Kingdom, attaining a postgraduate diploma to enable them to practice in Africa."}
+{"text": "The new MMed in dermatology at Moi University is the first local dermatology postgraduate training program in Kenya."}
+{"text": "The University of Antananarivo training program includes 8 semesters of dermatology residency after completion of a basic MD degree."}
+{"text": "The Regional Dermatology Training Centre (RDTC) based in Moshi, was established in 1992, offering a 2-year dermato-venereology course for medical assistants and clinical officers who graduate from Muhimbili University with an Advanced Diploma in Dermatovenereology."}
+{"text": "Dermatosurgery is actively taught as part of the MMed with input from plastic surgeons from abroad."}
+{"text": "The Global Burden of Disease (GBD) project provides disability and mortality data for diseases, injuries, and their risk factors stratified by age, sex, location, and time."}
+{"text": "These investigators undertook independent PubMed searches for clinical trials and epidemiologic studies done in Africa reporting on human immunodeficiency virus and malaria (2013\u20132016), tuberculosis (2014\u20132016), salmonellosis, Ebola hemorrhagic fever, and Buruli ulcer disease (1980\u20132016)."}
+{"text": "For example, the 21st Century Cures act amended the Federal Food, Drug, and Cosmetic Act to remove certain clinical decision support functionalities from the definition of \u201cmedical device\u201d."}
+{"text": "The Federal Trade Commission (FTC) prohibits deceptive or unfair acts or practices, including false or misleading claims about the safety or performance of digital health technologies."}
+{"text": "To provide clarity about the regulatory environment for a mobile app developer, the FTC, FDA, Health and Human Services (HHS) Office of the National Coordinator for Health Information technology (ONC), and Office for Civil Rights (OCR) have developed a tool for developers to use to understand what federal laws are applicable to their technology."}
+{"text": "Within industry, the Personal Connected Health Alliance provides design guidance based on the Continua Alliance standards and design model."}
+{"text": "The Xcertia guidelines presently do not include clinical outcomes validation, though others such as NODE. Health and the Digital Therapeutic Alliance are attempting to fill this gap."}
+{"text": "The United Kingdom\u2019s National Health Service (NHS) currently hosts a Beta site Digital Apps Library, in which it lists \u201cNHS approved\u201d 70 + medical apps across an array of medical conditions, including cancer, chronic obstructive pulmonary disease, dementia, diabetes, mental health, and pregnancy"}
+{"text": "Currently, the FDA monitors reports of device and drug adverse events and may require PMS to clarify possible adverse events associated with a device\u2014or verify that efficacy of a device persists in the \u201creal world\u201d"}
+{"text": "In the consumer financial industry, the FICO score represents a global score as an amalgamation of credit information to approximate borrower quality and lending risk"}
+{"text": "In particular, a Scorecard approach will be most successful when all stakeholders partake in its construction and all stakeholders\u2019 financial incentives are aligned to outcomes."}
+{"text": "The regulatory effort could be driven by one organization, such as the FDA\u2019s Digital Health arm, or a collaboration between varied agencies like the FDA, FTC, the Centers for Medicare & Medicaid Services, and the ISO."}
+{"text": "Asynchronous, self-paced, e-learning lessons within the module were created and uploaded onto a free online platform, Pharm-Ed."}
+{"text": "As the use of anti-cancer drugs in LMICs will continue to increase, this e-learning module is an effective means to address the lack of training opportunities on the safe handling of chemotherapies for healthcare workers in these countries."}
+{"text": "As the GLOBOCAN statistics produced by the International Agency for Research on Cancer (IARC) predict a sharp increase in cancers by 2040, particularly in LMICs, more healthcare workers and more hospitals will be engaged in cancer care and chemotherapy drug use."}
+{"text": "A steering committee created within the Geneva University Hospitals\u2019 Pharmacy Department led the project and defined the module\u2019s curriculum."}
+{"text": "This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source"}
+{"text": "The European Congress of Trauma and Emergency Surgery (ECTES) 2020 was to take place in Oslo, on April 26\u201328, and we had finalised a great programme for what was going to be the most multidisciplinary ECTES to date."}
+{"text": "Kaplan Meier curves for risk factors were generated to measure and visualize the probability of survival over time"}
+{"text": "Delirium was diagnosed by an observatory judgment by geriatric medicine specialists combined with the Delirium Observation Screening Scale."}
+{"text": "Risk factors for development of delirium during admission were age, male gender, dementia, Parkinson\u2019s disease, KATZ-ADL, infection during admission and haemoglobin loss."}
+{"text": "Another study on healthy feet found symmetry (Misselyn 2018)."}
+{"text": "The aim of this study was to analyze the epidemiology and outcomes of OMI within a defined area in Finland."}
+{"text": "The Clinical Frailty Scale (CFS) 3 is a visual and simple scale to classify our patients according to their frailty, and has shown to be useful in emergency surgery patients"}
+{"text": "The Dutch armed forces have been using - 80C deep-frozen platelets (DTC) for transfusion in operational medicine since 2001."}
+{"text": "The Norwegian National Burn Center was established in Bergen in 1984 at Haukeland University Hospital and is the country\u2019s only burn center to manage patients with severe burns."}
+{"text": "Time until diagnostics (chest X-Ray, FAST, or CT scan), time until therapeutic intervention, and total resuscitation time were measured manually with a stopwatch."}
+{"text": "Abdominal emergency surgery (ES) in elderly is associated with high mortality and long hospital stay"}
+{"text": "The aim was to validate North American references bone mineral density (BMD) values for the Dutch trauma population."}
+{"text": "Patients with simple, stable musculoskeletal injuries were included in two Dutch hospitals: OLVG and Sint Antonius (SA)"}
+{"text": "Erasmus Medical Center, Trauma Research Unit, department of Trauma Surgery, Rotterdam, Netherlands"}
+{"text": "Ludwig-Maximilians-Universiity Munich, Forensic Medicine, Munich, Germany"}
+{"text": "Electronic medical record (EMR) systems have the potential to facilitate appropriate laboratory testing."}
+{"text": "Ontario Laboratories Information System (OLIS), became available to many primary care physicians across Ontario."}
+{"text": "Data were anonymized and acquired from the Ontario Ministry of Health and Long-Term Care (MOHLTC) under a datasharing agreement with the Ontario Medical Association"}
+{"text": "We then introduced an enhanced approach to measure inappropriateness wherein criteria for hbA1c, TSH, and lipid testing were derived from guidelines and recommendations"}
+{"text": "IBC is a dummy variable equal to 1 if the physician was in an interdisciplinary blended capitation model and 0 otherwise."}
+{"text": "To bootstrap this process, we apply a semantic Extract-Transform-Load process to convert an EMR database into an enriched domain-specific Knowledge Graph."}
+{"text": "Extract relevant patient, diagnosis, and intervention data from the EMR database using a set of configurable SQL queries."}
+{"text": "This research was funded by an NSERC Engage Grant. The authors thank Natural Science and Engineering Research Council of Canada."}
+{"text": "From March 1 to 30 April 30, 2020, all records coded by TMAS doctors as \u2018\u2018influenza due to an unidentified virus\u2019\u2019 were extracted."}
+{"text": "Sixty-one records were included\u201451 for suspected COVID patients and 10 records for COVID-related problems"}
+{"text": "Within the context of its role described in the International Health Regulations, 4 the Tele-Medical Assistance Service (TMAS) has witnessed a sudden surge in maritime medical consultations"}
+{"text": "The studywas conducted by the French TMAS, a telemedicine center for ships across the globe, listing 4,979 consultations for 2,145 patients in 2019. The TMAS offers a 24-h emergency physician consultation and is part of a teaching hospital affiliated to Toulouse University (Toulouse Purpan Hospital, France)."}
+{"text": "Following the French TMAS advice, MRCC will organize evacuation together with the associated SCMM."}
+{"text": "Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016."}
+{"text": "All calls to the French TMAS are logged in a specific dedicated database (AppliCCMM)."}
+{"text": "Toulouse University Hospital agreed to comply with reference methodology MR-004 of the French National Commission for Informatics and Liberties"}
+{"text": "After evaluation and validation by the Data Protection Officer and pursuant to the General Data Protection Regulation, this study satisfies all of the relevant criteria, and is included in the Retrospective Study Register of Toulouse University Hospital and covered by MR-004"}
+{"text": "They were assisted in the management of this case by the Psychological Assistance Resource Centre based at Saint Nazaire."}
+{"text": "As a French reference center, the French TMAS has been affected by the COVID-19 epidemic in the same way as all health departments."}
+{"text": "The Da Vinci robotic platform from Intuitive Inc.\u00ae has been approved by the Food and Drug Administration of the USA to assist on most abdominal surgical procedures."}
+{"text": "A good example of the importance of randomized controlled trials (RCTs) to evaluate innovation is minimally invasive surgery in early cervical cancer."}
+{"text": "Technology, Apps, AI, can make the life of a surgeon easier to focus on the human experience; rebuild the relationship with patients and their families"}
+{"text": "For example, the UK demands 1600 procedures by completion of training and the USA requires 750"}
+{"text": "For inguinal hernia surgery a responsible surgeon must therefore be able to undertake proficiently at least the Lichtenstein open mesh procedure as well as a laparo-endoscopic technique, i.e., either the total extraperitoneal patch plasty (TEP) or transabdominal preperitoneal patch plasty (TAPP)"}
+{"text": "In a clinical outcomes\u2019 analysis comparing laparoscopic versus open inguinal hernia repair of the American College of Surgeons National Surgical Quality Improvement Program (ASC-NSQIP) 7346 from 46,793 (16.3%) patients were obese with a BMI \u2265 30 kg/m2"}
+{"text": "Eighty percent of US general surgery residents do undertake a period of post-residency fellowship training which is mirrored with 77% of general surgery trainees in the UK also pursuing additional clinical fellowship periods, in addition to their standard specified training"}
+{"text": "Two of these studies were from the UK, one from Thailand and nine from the USA"}
+{"text": "Fifty to 100 procedures with a proportion of 25 laparo-endoscopic repairs appears inadequate to technically overcome any learning curve associated with a specified surgical technique (TEP or TAPP, Lichtenstein, Shouldice, laparoscopic IPOM, open sublay, open or endoscopic component separation technique, open onlay)"}
+{"text": "The Broadband Commission for Sustainable Development was established in 2010 by ITU and UNESCO with the aim of boosting the importance of broadband on the international policy agenda, and expanding broadband access in every country as key to accelerating progress towards national and international development targets."}
+{"text": "Led by President Paul Kagame of Rwanda and Carlos Slim Hel\u00f9 of Mexico, it is cochaired by ITU\u2019s Secretary-General Houlin Zhao and UNESCO Director-General Audrey Azoulay."}
+{"text": "This is the third report of the Broadband Commission for Sustainable Development Working Group on Digital and AI in Health."}
+{"text": "Our Working Group identifies five use cases for AI in health: population health; R&D; clinical care pathways; patient-facing solutions; and optimization of health operations."}
+{"text": "A view that is in line with the World Bank\u2019s forthcoming World Development Report 2021 on Data for Development."}
+{"text": "Senegal, Mozambique, Cameroon, Cambodia and Haiti are among the many countries with ratios of less than 0.2 doctors per 1 000 inhabitants, whereas the US and Canada have ratios around 2.5 and Germany and Switzerland around 4.2."}
+{"text": "The 2018 Broadband Commission report, The Promise of Digital Health, identified a number of actions for governments and network operators to accelerate connectivity"}
+{"text": "Artificial Intelligence in Global Health: Defining a Collective Path Forward (2018), by USAID, the Rockefeller Foundation, and the Bill & Melinda Gates Foundation"}
+{"text": "Advancing AI in the NHS (2018), by the UK National Health Service (NHS)"}
+{"text": "Artificial Intelligence in Healthcare: the Hope, the Hype, the Promise, the Peril (2020), by the US National Academy of Medicine (NAM)"}
+{"text": "According to the United Nations, the Coronavirus outbreak has engulfed LMICs already vulnerable to poverty, food/water shortages, and weakened health systems."}
+{"text": "Using data from its app WeChat, Tencent was able to model the virus and accurately project how travel restrictions from Wuhan could slow the virus spread by almost three days"}
+{"text": "Baidu, another large tech company in China, is using AI infrared technology to measure the body temperature of railway and airport passengers in Beijing and Shenzhen."}
+{"text": "On December 30, 2019, AI platform BlueDot picked up on a cluster of unusual pneumonia cases happening around a market in Wuhan, China, and flagged it"}
+{"text": "Another South Korean company, Vuno, has developed an AI deep learning tool that examines lung x-rays and CT scans within three seconds."}
+{"text": "AIME, which has its origins as a pilot project during the Zika epidemic in Brazil, is an AI solution using big data to predict mosquito-borne disease outbreaks 30 days in advance, with an accuracy of over 80%."}
+{"text": "Thanks to its success, UNICEF's Magic Box has benefited from further partnerships with Amadeus, Google, IBM, Vodafone, and Telef\u00f3nica."}
+{"text": "Long before COVID-19, AI had been used to mine mobile and public data to model the spread of cholera in Haiti in 2010, and dengue fever in Pakistan in 2013"}
+{"text": "...declared by Lee-Ching Ng, Director of the Environmental Health Institute, under Singapore\u2019s National Environment Agency."}
+{"text": "Besides the current COVID-19 pandemic, many other emergencies have plagued the world for a long time. Zika, dengue, yellow fever, and Ebola have all been declared as significant public health threats in over 100 countries by the WHO."}
+{"text": "Magic Box, built by UNICEF\u2019s Office of Innovation, is a big data program developed in response to the 2014 Ebola crisis in West Africa."}
+{"text": "BenevolentAI is now taking AI into the fight against COVID-19 by tuning its machine learning to consider known chemical properties and biological processes of the virus to identify potential drugs."}
+{"text": "Using AI, a solution built by Johns Hopkins University mined existing data on chemical toxicity and produced new insights."}
+{"text": "Atomwise, the San Francisco based deep learning biotech company, has used a similar approach to identify potential compounds for treating Ebola and multiple sclerosis (MS)."}
+{"text": "\"When the periodic table of the elements was generated, there were gaps in that table where you know elements had to exist, but they hadn\u2019t been discovered,\u201d says Jackie Hunter, Executive Board Director at BenevolentAI."}
+{"text": "It has goal-oriented partnerships with AstraZeneca for chronic kidney disease and idiopathic pulmonary fibrosis, with Novartis on a precision medicine project for its oncology assets currently in clinical development, and with the University of California San Diego to develop non-invasive therapeutic treatments for cerebral cavernous malformations (CCM)."}
+{"text": "Apollo Hospitals partnered with Microsoft\u2019s AI Network for Healthcare to develop an India-specific heart risk score to better predict cardiac diseases among the general population."}
+{"text": "Thanks to the partnership, Microsoft and Apollo are now co-creating an AI-powered Cardio platform for patients to find their heart risk score"}
+{"text": "Moorfields Eye Hospital in London, UK, and DeepMind (Google) developed an AI tool that is able to identify more than 50 eye diseases in scans"}
+{"text": "Intel and GE Healthcare have teamed up to deliver an AI deep learning tool at the point of care that runs across multiple medical imaging formats"}
+{"text": "Noncommunicable diseases (NCDs) such as heart disease, diabetes, cancer, and respiratory diseases cause more than 70% of global deaths"}
+{"text": "For diabetes care, the cost in Latin America and the Caribbean alone is estimated at about USD 115 billion a year"}
+{"text": "The Chief of Cardiology at one of India\u2019s largest private healthcare companies, Apollo Hospitals, Dr. J. Shiv Kumar, has stated that cardiovascular diseases are almost an epidemic in India"}
+{"text": "Apollo has integrated its AI-powered CVD solution with preventative health check-ups across its hospital network and has also formed a National Clinical Coordination Committee that includes the All India Institute of Medical Sciences (AIIMS), New Delhi and King George\u2019s Medical University (KGMU), Lucknow for an ongoing study on prospective validation in the Indian population."}
+{"text": "Ping An has created an AI-powered healthcare ecosystem platform, Ping An Good Doctor"}
+{"text": "In time, Babylon Health will also release its standalone AI mobile phone app in Rwanda, calling in remote health professionals only when escalated by the AI or for formal diagnosis."}
+{"text": "In Nigeria, a startup called Ubenwa uses AI to diagnose birth asphyxia in newborns by recording the infant\u2019s cry on a smartphone in real time."}
+{"text": "Working on attention-deficit/hyperactivity disorder (ADHD) and Alzheimer\u2019s, Akili Interactive gamified cognitive assessments and integrated adaptive algorithms to detect early symptoms of the diseases."}
+{"text": "AI4Leprosy, a solution being built by the Novartis Foundation, Microsoft, the Oswaldo Cruz Foundation (Fiocruz), and the University of Basel, is a smartphonebased imaging solution for early detection of leprosy."}
+{"text": "This reality stands in stark contrast to Rwanda\u2019s rightful reputation as one of Africa\u2019s major tech hubs"}
+{"text": "MIT, supported by the Bill & Melinda Gates Foundation, Draper Richards Kaplan Foundation, and UNICEF, has built a predictive supply chain for health powered by machine learning: CHAIN."}
+{"text": "Partners such as PATH and Ministries of Health, as well as local health workers and administrators, not only shared data, they explained the process of data collection"}
+{"text": "Each year, over 600 000 out-of-hospital cardiac arrests (OHCA) occur in Europe and the US."}
+{"text": "Currently, the Corti system is deployed in Copenhagen, Seattle, Sweden, and in various locations in France."}
+{"text": "And with the IMI, the European Union (EU) and European Federation of Pharmaceutical Industries and Associations (EFPIA) have set up a jointly funded public-private partnership."}
+{"text": "In 2016 an elective global surgery course was introduced for medical students at Karolinska Institutet in Sweden. The course includes a theoretical module in Sweden and a two-week clinical rotation in Uganda."}
+{"text": "In Sweden, two specific courses in global surgery for medical students exist; one at the Karolinska Institutet (KI) and one at Lund University"}
+{"text": "This study demonstrates that students\u2019 ability to analyse issues relating to global surgery and global health improves as a result of participating in the Global Surgery course at Karolinska Institutet."}
+{"text": "Public health service in the United States, played an important role in the construction of the Panama Canal (1904-1914), whereby the medical division of the Isthmian Canal Commission, headed by Chief Sanitary Officer William Crawford Gorgas"}
+{"text": "The 12th-century Jewish scholar and physician Maimonides writes that the highest level of charity is to \u201cstrengthen the hand of a fellow\"."}
+{"text": "As another example, faculty at the University for Global Health Equity, an LMIC partner for the HBNU Fogarty fellowship, will be the mentors for US-based fellowship applicants interested in Surgery in Rwanda."}
+{"text": "Since 2007, the Royal Colleges of Surgeons of Ireland has supported COSECSA in its efforts to train more surgeons in the region, facilitating curriculum development, examinations, and training and leadership courses."}
+{"text": "For example, before the 2014 World Cup and 2016 Summer Olympics, the president-elect of the Pan-American Trauma Society was contacted by the Brazilian government to help build a trauma network in Rio de Janeiro."}
+{"text": "Thanks to the World Federation of Haemophilia (WFH) humanitarian aid programme, 14 children were under prophylaxis in 2018 in Senegal."}
+{"text": "We included all the adult patients followed in the headache clinic at the Neurology Department of Centro Hospitalar Universit\u00e1rio de S\u00e3o Jo\u00e3o, Porto, Portugal."}
+{"text": "The HUG is the major public healthcare facility in the Geneva region and the adjacent France."}
+{"text": "The occurrence of such acts spurred the United Nations Security Council 2016 resolution that addressed the protection of civilians -including humanitarian aid volunteers\u2014 during armed conflict."}
+{"text": "In 2010, the highest absolute burden of hypertension was in East Asia and the Pacific, which had more individuals with hypertension than all HICs combined"}
+{"text": "According to reports from World Health Organization (WHO), GBD study, and Non-Communicable Disease Risk Factor Collaboration (NCDRiSC) prevalence of hypertension is increasing globally and currently more than 1 billion people have hypertension."}
+{"text": "The 2017 American College of Cardiology/American Heart Association (ACC/ AHA) hypertension guidelines have proposed a lower threshold of \u2265130 and/or \u226580 mmHg."}
+{"text": "Government of India, under the National Program forControl of Cancer, Diabetes, Cardiovascular Diseases andStroke, has initiated a large project of opportunistic screening in India"}
+{"text": "Government of India along with the Registrar General of India have developed a more robust method to estimate a few cardiovascular risk factors (overweight, obesity, hypertension, and diabetes) in all states of the country"}
+{"text": "These factors include state-level human development index (HDI) derived from income, education and fertility statistics, social development index (SDI) derived from multiple socioeconomic factors"}
+{"text": "The Radiology Department of the University Hospital of Geneva alone produced more than 12,000 images a day in 2002."}
+{"text": "Another active area is the classification of high resolution computed tomography (HRCT) scans of the lung as done by the Assert project"}
+{"text": "This can be done with methods such as principal component analysis (PCA) or minimum description length (MDL) that try to reduce the dimensionality while staying as discriminative as possible."}
+{"text": "An important effort is underway by the European Federation of Medical Informatics (EFMI) in a working group on medical image processing"}
+{"text": "When compared against existing state-of-the-art deconvolution approaches we achieve over 4 dB Peak signal-to-noise ratio (PSNR) improvement"}
+{"text": "We used TensorFlow 2 to design and evaluate our neural nanooptic."}
+{"text": "The 2019 American College of Cardiology/American Heart Association/American Society of Echocardiography Advanced Training Statement on Echocardiography gives suggested minimum TEE procedure"}
+{"text": "More recently in August 2019, the U.S. Food and Drug Administration approved the use of transcatheter aortic valve replacement (TAVR) in low-risk patients after 2 clinical trials showed at least comparable outcomes of TAVR to surgery in this patient population with severe aortic stenosis"}
+{"text": "Many of the challenges we face today with molecular diagnostics were first noted by Dr. Raymond C. Bartlett, a visionary clinical pathologist, in the era of conventional culture-based microbiology"}
+{"text": "Similarly, new gene-based resistance detection platforms are rapidly emerging to guide antimicrobial use. New techniques used in these rapid diagnostic technologies include nucleic acid-based diagnostics (such as monoplex PCR testing and multiplex PCR panels)"}
+{"text": "A multiplex PCR assay detecting pneumococcal DNA in a spinal fluid sample from a patient with suspected meningitis who was pretreated with antibiotics"}
+{"text": "The Diagnostic and Statistical Manual of Mental Disorders does not provide the possibility of a special diagnosis for sexual dysfunctions due to infertility"}
+{"text": "A systematic search of medical databases was performed. Medline, CINAHL, PubMed and ScienceDirect were searched with the following keywords: infertility, couple, sexuality, dysfunction"}
+{"text": "Most of the studies evaluating women\u2019s sexuality used the standardized Female Sexual Function Index (FSFI), however, one study used the Mell-Krat scale."}
+{"text": "The majority of the research was performed in Turkey, Iran, and India, thus the specifics of the culture could have affected the results."}
+{"text": "An exhaustive literature review using MEDLINE, Google Scholar and the keyword search function provided through the Yale University Library"}
+{"text": "International Federation of Fertility Societies Surveillance reports were particularly helpful in identifying important global trends in IVF clinic distribution between 2002 and 2010"}
+{"text": "The first study, which was supported byWHO,utilized data from 47 Demographic and Health Surveys (DHSs), focusing on measures of childlessness,"}
+{"text": "The most recent study, supported by WHO and the Bill and Melinda Gates Foundation as part of the 2010 Global Burden of Disease Study, provided a global examination of infertility trends based on analysis of 277 reproductive and health surveys available"}
+{"text": "Overall, sub- Saharan Africa has the world\u2019s highest total fertility rates, even in the midst of high rates of infertility and life-threatening HIV infections."}
+{"text": "This would include, for example, theWilliam J. Clinton Foundation, Compton Foundation, Ford Foundation, Bill and Melinda Gates Foundation, William and Flora Hewlett Foundation, International Planned ParenthoodFederation, John D. and Catherine T. MacArthur Foundation, David and Lucile Packard Foundation,Wes tWind Foundation and the United Nations Population Fund"}
+{"text": "Indeed, it is noteworthy that in the UN\u2019s recent initiative, \u2018ICPD Beyond 2014\u2019, infertility care is not included in its Programme of Action"}
+{"text": "Similarly, infertile Syrians were crossing the borders into neighboring Lebanon or Jordan"}
+{"text": "As suggested by the cases of Bangladesh, Pakistan and sub-Saharan Africa overall, there remains a high \u2018unmet demand\u2019 for IVF services around the globe"}
+{"text": "In this context, then, infertility may be both impoverishing and life threatening, when it places a woman at a significantly higher risk of both violence and STIs including HIV/AIDS"}
+{"text": "In 1980, the first authoritative fatwa permitting assisted reproduction was issued by the Grand Shaykh of Al Azhar, one of the world\u2019s oldest and most important Islamic universities in Cairo"}
+{"text": "Turkey began fully funding two IVF cycles for all Turkish citizens, when the Turkish Ministry of Health began to provide IVF health insurance redeemable at both state and private clinics"}
+{"text": "Prof. Alan Trounson, emeritus professor at Monash University in Melbourne, Australia, Karin Hammarberg and a number of North American colleagues."}
+{"text": "UN International Conference on Population and Development in Cairo calls for \u2018sexual and reproductive health for all by the year 2015\u2019"}
+{"text": "WHO meeting on \u2018Medical, Ethical and Social Aspects of Assisted Reproduction\u2019 in Geneva recommends that \u2018Infertility should be recognized as a Public Health issue worldwide"}
+{"text": "Bertarelli Foundation holds its second global conference in Prague to discuss \u2018Infertility in the Third Millennium\u2019; an overview article is published in Human Reproduction Update"}
+{"text": "National Institutes of Health hold a scientific workshop on \u2018Health Disparities in Infertility\u2019 in Bethesda, Maryland, to encourage \u2018improved strategies for the prevention and treatment of infertility"}
+{"text": "ESHRE establishes a Special Task Force on Infertility and Developing Countries, chaired by Willem Ombelet of the Genk Institute for Fertility Technology in Belgium"}
+{"text": "Nonprofit organization called the Low-cost IVF Foundation is formed by a group of international IVF practitioners"}
+{"text": "International Society for Mild Approaches in Assisted Reproduction is established and registered as a charity in Great Britain to encourage the development and use of simpler, more cost-effective IVF protocols"}
+{"text": "ESHRE holds an expert meeting on \u2018Social Aspects of Accessible Infertility Care in Developing Countries\u2019 in Genk, Belgium, organized by the ESHRE Special Task Force on Developing Countries and Infertility and the Genk Institute for Fertility Technology"}
+{"text": "NGO called \u2018TheWalking Egg\u2019 is founded by Willem Ombelet to realize the goals of the Arusha Project"}
+{"text": "For example, the fibroblast growth factor (FGF) pathway that has been shown by John Eppig and his colleagues"}
+{"text": "However, the last six years have seen the effective use of phenotype-driven N-ethyl-Nnitrosourea (ENU) mutagenesis screens as part of the reprogenomics \u2018fertility clinic\u2019 at the Jackson Laboratory and the Phenomics program in Australia"}
+{"text": "The American Society of Reproductive Medicine addends to this definition with the inclusion parameters of couples unable to conceive in less than 6 months for females older than 35 years of age"}
+{"text": "The American College of Obstetricians and Gynecologists state in their guidelines that the initial reproductive health visit of a female should take place between the ages of 13 and 15 years"}
+{"text": "The American Urological Association (AUA) currently does not have any guidelines that recommend an initial urologist visit to establish care for men\u2019s reproductive health"}
+{"text": "Testosterone replacement therapy (TRT) is also commonly prescribed by clinicians and urologists."}
+{"text": "The Andrology Research Consortium recently conducted a North American survey of 4335 men seeking infertility consultation regarding their characteristics."}
+{"text": "This paper is based on a work commissioned in Switzerland by the Forum Managed Care (Bern), the Institute of Social and Preventive Medicine (Lausanne University Hospital and University of Lausanne), and the Swiss Health Observatory (Neuch\u00e2tel), with support and comment from the Federal Office of Public Health (Bern)."}
+{"text": "The first Swiss Survey on Integrated Care (SSIC), conducted between 2015 and 2016, included 155 integrated care initiatives throughout the country."}
+{"text": "Finally, Belgium launched INTEGREO in 2015 to develop integrated care at the country level, with around 20 pilot-projects starting to include patients in fall 2017."}
+{"text": "User\u2019s perspectives should be systematically integrated to quality improvement approaches at all levels of the healthcare system, indeed (see examples in the UK, USA and Germany)"}
+{"text": "Gardner and colleagues developed and reported on the effectiveness of an intraoperative teaching course for surgeons."}
+{"text": "Previously, faculty evaluation of a resident\u2019s progress and capability was akin to Supreme Court Justice Potter Stewart\u2019s words in his concurring opinion in Jacobellis vs. Ohio (1964)"}
+{"text": "The teaching faculty at Southern Illinois University developed the Operative Performance Ratings System (OPRS) in 2001"}
+{"text": "According to the United States Patent and Trademark Office, there are three types of patents: utility patents, design patents, and plant patents."}
+{"text": "The first United States medical patent was for the composition of bilious pills, granted to Samuel Lee on April 30, 1796."}
+{"text": "In 1980, Senators Birch Bayh and Robert Dole led the bipartisan approval of The Patent and Trademark Law Amendments Act of 1980."}
+{"text": "The invention of the Contact Allergen Replacement Database by James Yiannias, M.D., from Mayo Clinic in Arizona turned on its head the usual questions associated with avoidance of contact allergens."}
+{"text": "Surgical training in the UK and Ireland has faced challenges following the implementation of the European Working Time Directive and postgraduate training reform."}
+{"text": "Surgical training in the UK and Ireland is overseen by the Joint Committee on Surgical Training (JCST) and the Surgical Royal Colleges for all surgical specialties."}
+{"text": "Virtual reality (VR) is an artificial environment which is experienced through sensory stimuli provided by a computer in which one\u2019s actions determine what happens in the environment"}
+{"text": "A meta-analysis of randomized control trials (RCT) compared virtual reality (VR) simulation with either a box-trainer or no supplementary training in laparoscopic skills for junior trainees"}
+{"text": "Touch Surgery\u2122(TS) , by Digital Surgery Ltd, is a free, downloadable mobile application which simulates surgery using an interactive, virtual environment on a personal device (phone or tablet)."}
+{"text": "Twenty bariatric surgeons from the United States of America (USA), each submitted a single representative laparoscopic gastric bypass video with clinical data for peer-peer assessment of technical skills."}
+{"text": "One hundred and seventy-five unedited laparoscopic TaTME videos were analysed using Observational Clinical Human Reliability Analysis (OCHRA)"}
+{"text": "In England operating theatre staff increased by 41% between 2009 and 2018"}
+{"text": "Infection with human immunodeficiency virus (HIV), a Lentivirus, can cause acquired immunodeficiency syndrome (AIDS), and is believed to have originated from chimpanzees in the Democratic Republic of Congo around 1920."}
+{"text": "The US HIV/AIDS epidemic began in 1981. As of 2016, an estimated 1.2 million people in the US are living with HIV, of whom 1 in 7 are unaware of their carrier status"}
+{"text": "Freedom of choice for physicians had historically been supported by professional organizations such as the American Medical Association (AMA)."}
+{"text": "WHO declared SARS-CoV contained in July of 2003, though several SARS-CoV cases were reported until May of 2004"}
+{"text": "The Ontario Ministry of Health and Long-Term Care responded by mandating additional protections for high-risk airway management situations, including a covered helmet with a respirator and a full-length gown worn over standard personal protective equipment (PPE)."}
+{"text": "Ebola virus disease (EVD) is a clinical syndrome caused by a group of viruses within the genus Ebolavirus"}
+{"text": "In March 2014, the World Health Organization reported the first EVD cases in southeastern Guinea"}
+{"text": "The West Africa Ebola epidemic followed, with an outbreak rapidly spreading to Guinea\u2019s bordering countries, Liberia and Sierra Leone."}
+{"text": "For example, in August 2014, the number of operations at Connaught Hospital, Sierra Leone\u2019s only tertiary referral center, fell to 19% from the 2013 level."}
+{"text": "In the US, the American College of Surgeons (ACS) adapted Centers for Disease Control and Prevention (CDC) guidelines for operating on patients with suspected EVD."}
+{"text": "There are several publications about predicting the motion of an abdominal area reviewed comprehensively by Stemkens et al. (2018)."}
+{"text": "The 1.5 T MRI scanner (Optima MR450w GEM, GE Healthcare, Waukesha, WI, USA) equipped with the GE oncological package was utilized in the study"}
+{"text": "MR images and navigator data were processed retrospectively by a self\u2010developed MATLAB (MATLAB (2016a), The MathWorks, Inc., Natick, Massachusetts, United States) algorithm."}
+{"text": "The produced visualizations are used to help human subjects in Amazon mechanical turks identify objects with higher accuracy in predicting VOC 2007 images"}
+{"text": "The present study aimed to assess various stressful situations and the psychological impact of the first COVID-19 pandemic lockdown among youths in Switzerland."}
+{"text": "S-YESMH is a nationally representative observational study of Swiss young adults\u2019 mental health and wellbeing that was funded by the Swiss National Science Foundation."}
+{"text": "The data collection and data handling procedure strictly complied with the EU\u2019s General Data Protection Regulation (GDPR) and the Helsinki Declaration and was approved by the Ethical Committee in Canton Zurich (2020-01736) and Canton Vaud (2020-01736_2007)."}
+{"text": "The questionnaire for children and adolescents was developed in collaboration with the CORONA HEALTH APP study in Germany"}
+{"text": "The app for this study was supported by the Robert Koch Institute, and the children\u2019s questions were developed by the Department of Child and Adolescent Psychiatry and Psychotherapy at University Hospital W\u00fcrzburg."}
+{"text": "Furthermore, less than 7.0% of mothers and 6.0% of fathers met the criteria for ADHD-related symptoms."}
+{"text": "Compared to many other European countries, Switzerland\u2019s health system was not overwhelmed due to COVID-19."}
+{"text": "Around one-fifth of the young adults met the criteria for one of the mental health problems (depression,GAD, orADHD-related symptoms),while one-third of children/adolescents screened positive for one of the mental health problems (depression, anxiety, ADHD- or ODD-related symptoms) during the first COVID-19 lockdown in Switzerland"}
+{"text": "The Federal Statistical Office publishes weekly national and regional mortality reports online for Switzerland for the age groups 0 to <65 and 65+ years,"}
+{"text": "FSO online publication on the weekly number of deaths in Switzerland by age group had become one of the most frequently referenced sources of information on the SARSCoV- 2 pandemic in Switzerland"}
+{"text": "These diseases are noted in longhand on the medical certificate, and the FSO then codes them according to the rules of the International Classification of Diseases (ICD-10) of the World Health Organization (WHO)"}
+{"text": "The Federal Office of Statistics' (FSO) BEVNAT database receives nightly updates through the Federal Office of Justice (FOJ) INFOSTAR register,"}
+{"text": "Often, some implementation of an overdispersed Poisson generalised linear model with spline terms is used, which was initially proposed by Farrington et al. and improved by Noufaily et al. , for example by the US Centers for Disease Control and Prevention (CDC)"}
+{"text": "Collecting data on deaths has a long history, both in Switzerland and internationally. Its roots can be traced back to 19th century England."}
+{"text": "The recent SARS-CoV-2 pandemic, the impact of which on the mortality in Switzerland in 2020 and 2021 is easily discernible from figure 2, has demonstrated to be no exemption to that rule, today known as \u201cFarr\u2019s law\u201d."}
+{"text": "Overall, the review study and the contributions of AI and ML are divided into three categories: Health Intelligence, Precision Medicine, and Healthcare Resource Management and Ethical Challenges."}
+{"text": "Applying ML to the EHRs to generate personalized medicine by converting EHR into reliable risk predictors, and incorporating patient\u2019s variabilities for treatment and prevention of disease."}
+{"text": "At the same time, they claimed that the integration of ML in EHRs may lead to potential fear of overreliance as well as decreased vigilance of errors and automation bias."}
+{"text": "Classification of Alzheimer\u2019s disease."}
+{"text": "Utilizing NLP to translate hand-written notes according to WHO standardized medical terminologies and developing local dictionaries"}
+{"text": "They showed concerns regarding implementation of human rights by the Universal Declaration of Human Rights at the 1948 United Nations General Assembly for data privacy, protection, de-identification and encryption for data handling, collection and sharing"}
+{"text": "A review justifies these limitations in AI andML with some examples, e.g. Uber\u2019s software tool Greyball and Volkswagen\u2019s algorithm."}
+{"text": "Emerging evidence indicates that in addition to NOX hyperactivation, NOS (NO synthase) uncoupling, ER (endoplasmic reticulum) stress, and mitochondrial oxidative stress contribute to redox changes in hypertension."}
+{"text": "For example, correlations have been shown between the risk of West Nile virus trans-mission and changes in the timing of the spring bloom, temperature variability and moisture availability, all observed by satellites over the Great Plains of the US"}
+{"text": "Later, at the end of June, the European Centre for Disease Control eventually established the link between the bac-teria and contaminated seeds of soy bean sprouts imported from Egypt"}
+{"text": "WWARN currently securely hosts more than 350 clinical trial data sets, comprising over 135 000 patient records which have been harmonised"}
+{"text": "When Ebola hit West Africa in 2014, M\u00e9-decins Sans Fronti\u00e8res (MSF) and other nongovernmental organisations (NGOs) and health authorities took advantage of cell phone data to better foresee the extension of the epidemic, and also to better target needs of the affected populations"}
+{"text": "Google Flu Trends, based on Google search terms, was highly promising."}
+{"text": "Google Flu Trends wrongly predicted a large outbreak of influenza in New York City, prompting Mayor Bloomberg to declare a state of emergency for the City"}
+{"text": "The International Health Regu-lations (IHR) is an international agreement, which was signed in 2005, between all the members of the WHO, binding 196 countries"}
+{"text": "In 2015, the World Health Or-ganization, the United States Agency for International Development, and the World Bank published \u201cThe Roadmap for Measurement and Accountability\u201d"}
+{"text": "This research project was supported by the National Research Program 74 of the Swiss National Foundation, the Health Services Research funding program of the Gottfried and Julia Bangerter-Rhyner Foundation, and the Swiss Society of General Internal Medicine Foundation."}
+{"text": "Dr.Haynes is affiliated with CTU Bern, University of Bern, which has a staff policy of not accepting honoraria or consultancy fees."}
+{"text": "The RAFT network: 5 years of distance continuing medical education and tele-consultations over the Internet in French-speaking Africa"}
+{"text": "Since 2000, the Geneva University Hospitals have been involved in coordinating the development of a network for eHealth in Africa (RAFT), first in Mali, and now extending to 10 French-speaking African countries."}
+{"text": "This significant question was asked in February of 2000 by medical students ready to graduate from the Bamako University Medical School, in Mali, Africa."}
+{"text": "WLAN connections between hospitals have been installed in Bamako (Mali), in Nouakchott (Mauritania) and in Yaound\u00b4e (Cameroon) in order to enable high-bandwidth collaborations between care professionals."}
+{"text": "Criteria used in the North International organizations such as UNESCO and the World Health Organization (WHO) have been facing these challenges for 50 years and can provide useful support."}
+{"text": "This work is supported by grants from the International Solidarity Funds of the State of Geneva, from Geneva University Hospitals, and from the Eagle Foundation."}
+{"text": "Digital health collectively describes the concepts of eHealth, telemedicine and mHealth, as defined by the World Health Organization (WHO)"}
+{"text": "eHealth is the cost-effective and secure use of information and communication technologies (ICTs) for health and health-related fields, while mHealth is a component of eHealth."}
+{"text": "Since 2010, the RAFT has been extended to the Altiplano in Bolivia and Nepal (in progress)."}
+{"text": "The RAFT is a collaborating center of WorldHealth Organization (WHO) for eHealth and telemedicine and collab- orates with other institutions such as the Universit\u00e9 Num\u00e9rique Francophone Mondiale (UNFM)."}
+{"text": "Video-lectures are produced with Dudal, a distante ducation software developed for the RAFT to operate with low-bandwidth"}
+{"text": "It was developed by the Novartis Foundation in collaboration with  the WHO and the Swiss Institute of Tropical Medicine and Public Health."}
+{"text": "Promising tele-expertise activities are planned for 2014 in surgery in Ghana and pediatrics in Burkina Faso, Senegal, Ghana, Kenya, and Tanzania,"}
+{"text": "Bloodstreaminfections (BSI), a primary source of sepsis, annually afflicts approximately 1.7 million US adults, leading to over 270,000 deaths, and is the only cause of inpatient mortality in the United States"}
+{"text": "Septicemia is themost expensive condition for US hospitals to manage, costing over 20 billion US dollars annually"}
+{"text": "After an overnight culture (or longer for certain organisms), biochemical testing is performed by automated systems, like Vitek2, MicroScan WalkAway, or BD PhoenixTM"}
+{"text": "While there are several FDA-approved rapid multiplex PCR tests , none are approved for broad microbial detection"}
+{"text": "The Web site operators, based outside the United States, forwarded his request and associated questionnaires to Colorado psychiatrist Dr Christian Hageseth."}
+{"text": "The San Mateo County District Attorney charged Dr Hageseth with practicing medicine in California without a license."}
+{"text": "Detailed information is available through the National Telehealth Policy Resource Center, a component of the Center for Connected Health Policy (CCHP)"}
+{"text": "However, it is anticipated that telemedicine practitioners will soon learn of a specific registration process that will allow them to comply with Drug Enforcement Agency (DEA) regulations and the Ryan Haight Act while still performing telemedicine without in-person examination requirements."}
+{"text": "In 2015, the American Academy of Sleep Medicine (AASM) introduced a series of quality measures for adult obstructive sleep apnea (OSA)"}
+{"text": "The United States was the country with the largest number of publications (38.2%), followed by Italy (11.0%) and the United Kingdom (10.0%)"}
+{"text": "In August 2018, a meeting was held in Bethesda, Maryland, at the National Institutes of Health to discuss the current state of the art and knowledge gaps and to develop a roadmap for future research initiatives."}
+{"text": "The International Society for Magnetic Resonance in Medicine has proposed a standard for the exchange of MRI source data, but few vendors make MRI source data available in this format."}
+{"text": "The latest vector-based methods, such as the Word2Vec, and GloVe, rely on representations of words that encode not only information about the word, but also the context in which the word occurs."}
+{"text": "A collaboration between the Ames Research Centre at NASA and researchers from Stanford"}
+{"text": "These two rival systems, ZEUS and Da Vinci, went on to dominate the field of robotic surgery for a decade"}
+{"text": "The following year the first closed-chest beating-heart cardiac bypass procedure was undertaken by Douglas Boyd and colleagues at the London Health Sciences Centre in Ontario."}
+{"text": "At the University Hospitals of Geneva (HUG), processes reengineering accompanied with new applications covering the whole chain of the processes involved in chemotherapy treatment"}
+{"text": "The HUG is the major public healthcare facility in the Geneva region and the near France."}
+{"text": "GS1 is the result of the merge of the two organizations EAN \u2013 European Article Numbers and UCC \u2013 Uniform Code Council"}
+{"text": "There are two architectures, comb-drive actuation and parallel plate actuation, to be explored for the driving of MEMS scanners in imaging applications."}
+{"text": "Figure 4 shows an example of moving coils used in a commercial Olympus confocal microscope."}
+{"text": "According to the International Telecommunications Union, . 95% of the global population is covered by mobile networks, meaning mHealth-based interventions require little investment"}
+{"text": "For all of these reasons, support for research and development of resourceappropriate technologies, including mHealth, continues to be a focal area for the National Cancer Institute Center for Global Health."}
+{"text": "To this end, Rubagumya et al introduce a teleconsultation approach to reduce cancer health disparities and improve cancer outcomes for people with albinism in Tanzania, supported by an app titled NgoziYangu"}
+{"text": "We investigated the epidemiology and characteristics of imported malaria in Switzerland in the period between 1990 and 2019 using data from the Swiss Federal Office of Public Health (BAG). We also obtained traveller statistics from the World Tourism Organization (UNWTO)."}
+{"text": "Reporting cases of malaria to the Swiss Federal Office of Public Health has been mandatory in Switzerland since 1974."}
+{"text": "The single country with the highest number of imported malaria cases to Switzerland was Cameroon"}
+{"text": "According to the United Nations High Commissioner for Refugees (UNHCR), in 2014 Eritrea was part of the five top source countries of asylum seekers, together submitting 45% of all asylum applications recorded among all industrialized countries"}
+{"text": "The European Refugee Crisis induced a rise in P. vivax-malaria in Switzerland due to migrants from Eritrea."}
+{"text": "Controlled medicines (CM) are products that meet the legal definition of both a \u201cnarcotic\u201d under the Swiss Narcotics Act and of a medicine under the Therapeutic Products Act."}
+{"text": "CM are widely used substances that, like all medicines, are rigorously tested before being approved by the Agency for Therapeutic Products (Swissmedic) in Switzerland."}
+{"text": "A medicine is used off-label in Switzerland when the physician prescribes it in a manner not foreseen by the professional product information approved by Swissmedic."}
+{"text": "The study is part of a research project funded by the Swiss National Science Foundation (SNSF grant number 182477), which aims to analyze the current CM legislation in Switzerland."}
+{"text": "The source population included all hospitalizations recorded in the Medical Statistics of Hospitals (Federal Statistical Office) with a discharge occurring in the years 2014 to 2016 and a length of stay greater than 1"}
+{"text": "First telemedicine application, a tele-psychiatry service, was established in 1959 by Cecil L. Wittson, MD, the future Dean of the University of Nebraska College of Medicine, in Omaha, Nebraska."}
+{"text": "The White House\u2019s telemedicine videoconferencing setup demonstration for President Donald J. Trump by the Secretary of Veterans Affairs (VA), David J. Shulkin, MD"}
+{"text": "Telemedicine peripherals are evaluated as medical devices and classified as such by the US Food and Drug Administration (FDA), following rigorous evaluation."}
+{"text": "In the neurology arena, apps are being developed that may revolutionize migraine headache diagnostics and patient performances with Alzheimer disease or other dementias."}
+{"text": "Just the month before, MDLIVE reported that urgent care visits doubled in Washington state, where the outbreak hit early and hard, and American Well, about to be rebranded to Amwell, said that usage increased there 650% and 158% nationwide"}
+{"text": "For critically ill in-patients, telehealth allowed intensive care specialists elsewhere to step in. University of Pittsburgh Medical Center intensivists advised on COVID- 19 patients at the New York-Presbyterian Weill Cornell Medical Center in overwhelmed New York City"}
+{"text": "US, EU, and world guidelines, the main ones in this area, also were included, and several of the scholarly papers referenced guidelines from other countries."}
+{"text": "Meanwhile, the American Medical Association (AMA)\u2019s 2014 and 2016 telemedicine ethics guidelines also covered the patient-physician relationship and quality of care, reimbursement, and the need for guidelines"}
+{"text": "The AMA seriously addressed telemedicine in their Code of Ethics and also in other work during 2019 and 2020."}
+{"text": "As the COVID-19 pandemic was becoming apparent, one review compared the WMA, AMA, and Health Professions Council of South Africa guidelines according to how they treated facilitating patientprovider relationships and communication"}
+{"text": "The need for improving cybersecurity is more apparent. WHO, the National Institutes of Health, and the Gates Foundation were presumably hacked in April 2020"}
+{"text": "New regulations, such as the General Data Protection Regulation (GDPR) in the EU and the California Consumer Privacy Protection Act in the US, address these concerns to some extent"}
+{"text": "Study was conducted at in two rural-telemedicine programme implementation sites, namely Patle, Fikkal Bazaar and one central consultation site BPKIHS Dharan."}
+{"text": "B.P. Koirala Institute of Health Sciences (BPKIHS), Dharan, Nepal has started the rural\u2011telemedicine and e\u2011learning program in 2015 at three rural health facilities/district hospitals of Eastern Nepal"}
+{"text": "It was already shown by Dang et al. in 2007 that for patient with diabetes, telemedicine improves glycemic control and glycosylated hemoglobin levels"}
+{"text": "Examples of home health aides include Fitbit, Apple HealthKit devices, and Samsung Health."}
+{"text": "A variety of options are available for this type of video conferencing by vendors such as Polycom, Cisco, Vidyo, Zoom, and a host of others."}
+{"text": "Examples of Direct to Consumer platforms include American Well, TelaDoc, MDLIVE, and Doctor on Demand."}
+{"text": "4G LTE and the soon-to-be-released 5G wireless data networks operated by carriers like Verizon, AT&T, Sprint, and T-Mobile provide excellent nationwide coverage that is suitable for telemedicine use with the right equipment."}
+{"text": "In a report from New York City, the epicenter of the pandemic during those months, the growth of teleconsultations was exorbitant"}
+{"text": "Ambulatory practices of various specialties, in countries such as Italy, the United States and India reported virtual migration percentages between 60% and 95% of their usual practice."}
+{"text": "In New York, during the months of March and April in the NYU Langone Health (NYULH) system, emergency forward triage was the first telemedicine service that showed exponential growth."}
+{"text": "Global Health Intelligence (GHI), in a Webinar conducted on April 23, 2020, reviewed the penetration of telemedicine in Latin America."}
+{"text": "Prior experiences in the field include ISDN-based video conferencing for tele-cardiology and tele-neurology between Dakar and Saint-Louis in Senegal"}
+{"text": "The project has been supported strongly by the medical informatics service of the University Hospitals of Geneva"}
+{"text": "A pilot project in Mali, named Keneya Blown, was initiated in 2001 by the Mali University Medical School in Bamako, and financed by the Geneva government and the Geneva University Hospitals."}
+{"text": "Web-casting systems for distance learning have been implemented in Geneva and Bamako"}
+{"text": "Post-graduate and public health courses developed by the various health institutions in Bamako are web-casted to regional hospitals in Mali and to other partners in Western Africa."}
+{"text": "Most physicians in Africa still use US-based email accounts for exchanges that remain local, due to a lack of reliable local e-mail services."}
+{"text": "For example, the iPath project developed by the Institute of Pathology in Basel, organizes \u201cvirtual medical communities\u201d, which replicate organizational models of institutions in distributed collaboration networks"}
+{"text": "Netflix knows which films and series people prefer to watch, Amazon knows which items people like to buy when and where, and Google knows which symptoms and conditions people are searching for."}
+{"text": "It is estimated that AI applications can cut annual US healthcare costs by USD 150 billion in 2026."}
+{"text": "Both IBM Watson and Google\u2019s Deep Mind are currently being used for many healthcare-related applications."}
+{"text": "Deep Genomics, a Healthtech company, is looking at identifying patterns in the vast genetic dataset as well as EMRs, in order to link the two with regard to disease markers."}
+{"text": "Blaschke et al. also applied adversarial autoencoders and Bayesian optimization to generate ligands specific to the dopamine type 2 receptor"}
+{"text": "For instance, Wallach and Dzamba build AtomNet, a deep CNN to predict the bioactivity of small molecule drugs for drug discovery applications."}
+{"text": "The smart tissue autonomous robot (STAR) from the Johns Hopkins University has demonstrated that it can outperform human surgeons in some surgical procedures"}
+{"text": "An example of this is a group at the Institute of Information Technology at the Alpen-Adria Universit\u00e4t Klagenfurt that uses surgery videos as training material in order to identify a specific intervention made by the surgeon."}
+{"text": "Diseases and Related Health Problems (ICD) is managed and published by the WHO and contains codes for diseases and symptoms as well as various findings, circumstances, and causes of disease."}
+{"text": "EMR providers such as Cerner, Epic, and Athena are beginning to add AI functionality such as NLP in their systems making it easier to access and extract data held in their libraries"}
+{"text": "DeepCare is an example of an AI-based platform for end-to-end processing of EMR data."}
+{"text": "The Kompa\u00ef robot used for the MARIO project was developed by Robosoft and is a robot containing a camera, a Kinect motion sensor, and two LiDAR remote sensing systems for navigation and object identification"}
+{"text": "Yet, another companion robot Buddy, by Blue Frog Robotics, assists elderly patients by helping with daily activities such as reminders about medication and appointments"}
+{"text": "In 2000, J.K. Harness, MD, a surgeon from Oakland, California, stated, in his presidential address on the occasion of the 21st annual meeting of the American Association of Endocrine Surgeons: \u2026"}
+{"text": "Several certifying boards of specialty training developed outside general surgery, such as American Boards of Urology, Neurological Surgery, Thoracic Surgery, etc."}
+{"text": "In the US, head and neck surgery as a specialty was organized by the Society of Head and Neck Surgeons, founded in 1954 by Hayes Martin a general surgeon, and the American Society of Head and Neck Surgery, founded in 1958 by John Conley, an otolaryngologist."}
+{"text": "Theodor Kocher received the Nobel Prize in Medicine and Physiology in 1909 to honor his life\u2019s work in surgery and research of thyroid pathologies."}
+{"text": "While much progress has been made with tuberculosis control, the World Health Organization (WHO) estimates that 9 million people developed tuberculosis in 2013 and that 1.5 million died, including 360 000 people who were infected with human immunodeficiency virus (HIV)."}
+{"text": "The 2014 UNITAID TB Diagnostics Technology and Market Landscape report summarized the technologies that have been endorsed by the WHO and described the pipeline of novel tools that are on or likely to enter the market"}
+{"text": "Complexity categorization was based on criteria that are used for similar diagnostics by the US Food and Drug Administration."}
+{"text": "Because of promising results in phase 2 trials, the Global Alliance for TB Drug Development and partners have launched the Shortening Treatment by Advancing Novel Drugs trial of the PaMZ drug regimen"}
+{"text": "This report aims to showcase the WHO AFRO Region country responses to COVID-19, WHO AFRO and WHO Country Office support to countries"}
+{"text": "In South Africa, around 400 million Rands was allocated by the government for the Social Relief of Distress (SRD) grant to vulnerable households"}
+{"text": "The first country in the WHO African region to report a case was Nigeria on 28 February 2020, and the last to report was Lesotho on 12 May 2020."}
+{"text": "VIPS software participant training was held during the first week at the Faculty of Medicine and Biomedical Sciences (FMSB)."}
+{"text": "In 2005 the World Health Assembly through its resolution WHA58.28 on eHealth urged Member States \u201cto consider drawing up a long-term strategic plan for developing and implementing eHealth services\u2026"}
