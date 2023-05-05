@@ -12,7 +12,7 @@ def single_token_tags(doc, entities):
         bilou_tags = offsets_to_biluo_tags(doc, entities)
         iob_tags = biluo_to_iob(bilou_tags)
         return iob_tags
-
+    
 
 ##### Given a sample on our dataset in JSONL format (Prodigy output), get all the true golden entity spans
 ##### Both the full spans and individual entities are saved into two lists
@@ -56,5 +56,7 @@ def add_pos_tags_to_sentence(spacy_model, sentence):
         except ValueError:
             token.pos_ = 'PUNCT'
         ##### Debug    
-        # print('Word: {} - Assigned POS tag: {}'.format(token, token.pos_))
+        print('Word: {} - Assigned POS tag: {}'.format(token, token.pos_))
     return doc
+
+
