@@ -65,13 +65,7 @@ def evaluate_model(ner_model, evaluation_set, visualization_set, visualize : boo
 
 
 ##### Function to fine-tune a SpaCy Model to better adapt to our task
-def fine_tune_model(model, train_set, epochs, batch_size, p_dropout):
-    # if model_name == "en_core_web_trf":
-    #     model = spacy.load(model_name, enable = ['transformer', 'ner'])
-    # else:
-    #     model = spacy.load(model_name, enable = ['tok2vec', 'ner'])
-        
-    print('"{}" model successfully loaded and fine-tuning started | {} Epochs | {} Batch Size | Adam Optimizer | {} Dropout Probability \n'.format(model, epochs, batch_size, p_dropout))
+def fine_tune_model(model, train_set, epochs, batch_size, p_dropout):        
     optimizer = model.resume_training()
     losses_dictionary = {}
 
@@ -93,5 +87,5 @@ def fine_tune_model(model, train_set, epochs, batch_size, p_dropout):
             model.update(examples_in_batch,  sgd = optimizer, losses = losses_dictionary, drop = p_dropout)
         print('Epoch {} | Loss: {}'.format(i + 1, losses_dictionary['ner']))    
     
+    return model
     
-    # print('"{}" model successfully fine-tuned | {} Epochs | {} Batch Size | Adam Optimizer | {} Dropout Probability \n'.format(model_name, epochs, batch_size, p_dropout))    

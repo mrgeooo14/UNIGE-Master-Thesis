@@ -1,8 +1,18 @@
 import nltk
-from nltk.tokenize import word_tokenize, PunktSentenceTokenizer
+from nltk.tokenize import word_tokenize
+import spacy
 from spacy import displacy
 from spacy.tokens import Doc
 from spacy.training import offsets_to_biluo_tags, biluo_to_iob
+
+##### Load a SpaCy model with only NER pipelines enabled
+##### The function takes as input the model name and returns the model itself 
+def load_spacy_ner_model(model_name : str):
+    if model_name == "en_core_web_trf":
+        nlp = spacy.load(model_name, enable = ['transformer', 'ner'])
+    else:
+        nlp = spacy.load(model_name, enable = ['tok2vec', 'ner'])
+    return nlp
 
 ##### Modified version of the converter from an Iterable of Entities to IOB2 format
 ##### The results are first converted to the BILOU Schema and then the IOB2 Schema
