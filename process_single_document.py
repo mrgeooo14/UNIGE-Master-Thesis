@@ -4,6 +4,7 @@ from pdfminer.layout import LTTextContainer
 from pdfminer.high_level import extract_text, extract_pages
 from nltk.tokenize import sent_tokenize
 from thefuzz import fuzz
+import PyPDF2
 import itertools
 import spacy 
 
@@ -29,6 +30,35 @@ def extract_text_from_pdf(pdf_file):
     # text_as_str = extract_text(pdf_file)
     
     return text_as_str, text_as_list
+
+
+def extract_text_from_pdf_2(pdf_file):
+    pdf_reader = PyPDF2.PdfFileReader(pdf_file, strict=False)
+    meta_data = pdf_reader.metadata
+
+    doc_as_str = ''
+
+    x = pdf_reader.numPages
+    for i in range(x): ## skip the last page as it usually includes references
+        page = pdf_reader.getPage(i)
+        page_text = page.extract_text()
+        doc_as_str += page_text
+        
+    print('PDF processed ({} pages)'.format(x))
+    
+    try:
+        doc_author = meta_data['/Author']
+        print('Author: {}'.format(doc_author))
+        doc_keywords = meta_data['/Keywords']
+                    
+        pattern = r"\b\w+(?: \w+)*\b"
+        keywords_list = re.findall(pattern, doc_keywords)
+        print('Keywords: {}'.format(keywords_list))
+
+    except KeyError:
+        pass
+    
+    return doc_as_str, keywords_list
 
 ##### Function to locate the possible 'keywords' segment on the string containing the document's text
 ##### If found, a list that contains all the keywords the authors have put will be generated 
@@ -178,10 +208,15 @@ if __name__ == '__main__':
     print('\n#########')
     print('Document Pre-Processing Started...')
     single_pdf = open(pdf_path_name, 'rb')
-    doc_as_str, doc_as_list = extract_text_from_pdf(single_pdf)
-    print('this one i guess? {}'.format(time.time() - processing_start_time))
+    user_input = int(input("Enter 1 to use pdfminer as OCR or 2 to use PyPDF2: "))
+    if user_input == 1:
+        doc_as_str, doc_as_list = extract_text_from_pdf(single_pdf)
+        doc_keywords = try_finding_keywords(doc_as_str)
+    else:
+        doc_as_str, doc_keywords = extract_text_from_pdf_2(single_pdf)
+
+    print('OCR Process Finished, PDF converted to text... | {:.3f}'.format(time.time() - processing_start_time))
     doc_as_str = remove_references(doc_as_str)
-    doc_keywords = try_finding_keywords(doc_as_str)
     print('Keywords Found: {}'.format(doc_keywords))
     print('#########')
     print('Document Pre-Processing Runtime: {:.3f} seconds'.format(time.time() - processing_start_time))
