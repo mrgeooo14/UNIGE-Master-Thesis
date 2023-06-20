@@ -13,7 +13,7 @@ def reduce_dimensions_tsne(model):
     labels = np.asarray(model.wv.index_to_key)  # fixed-width numpy strings
 
     # reduce using t-SNE
-    tsne = TSNE(n_components=num_dimensions, random_state=0)
+    tsne = TSNE(n_components = num_dimensions, random_state=0)
     vectors = tsne.fit_transform(vectors)
 
     x_vals = [v[0] for v in vectors]
