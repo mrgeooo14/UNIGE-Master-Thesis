@@ -1,4 +1,4 @@
 /data
-data/variables.pkl
 __pycache__/
 /models
+..bfg-report/
